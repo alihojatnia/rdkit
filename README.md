@@ -5,7 +5,7 @@ RDKit is a cheminformatics library that is widely used in the field of computati
 - [SMARTS Tutorial](https://www.daylight.com/dayhtml_tutorials/languages/smarts/index.html)
 - [Smart Examples](https://www.daylight.com/dayhtml_tutorials/languages/smarts/smarts_examples.html)
 - [smart tutorial](https://www.labcognition.com/onlinehelp/en/smiles_and_smarts_nomenclature.htm)
-
+-[RDkit 200 fearures explaination](https://datagrok.ai/help/domains/chem/descriptors)
 
 
 
