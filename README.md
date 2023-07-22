@@ -21,5 +21,11 @@ It currently provides hover tools that can depict molecules on-the-fly using SMI
 ### M2Hub: Unlocking the Potential of Machine Learning for Materials Discovery
 [M2Hub](https://github.com/yuanqidu/M2Hub) aims to build the machine learning foundations for materials discovery which has a standard workflow from virtual screening/inverse design to simulation to experiment. M2Hub provides data downloading, data processing, (baseline and state-of-the-art) machine learning method implementation, evaluation pipeline and benchmark results. 
 
+### ChemBERTa
+[ChemBERTa](https://github.com/seyonechithrananda/bert-loves-chemistry): A collection of BERT-like models applied to chemical SMILES data for drug design, chemical modelling, and property prediction.
+
+### GuacaMol
+[GuacaMol](https://github.com/BenevolentAI/guacamol) is an open source Python package for benchmarking of models for de novo molecular design.
+
 ### Datasets
 - [deepchem moleculenet](https://deepchem.readthedocs.io/en/latest/api_reference/moleculenet.html)
