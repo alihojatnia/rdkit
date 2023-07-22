@@ -18,5 +18,8 @@ It currently provides hover tools that can depict molecules on-the-fly using SMI
 ### mol_opt: A Benchmark for Practical Molecular Optimization
 [This repository](https://github.com/wenhao-gao/mol_opt) hosts an open-source benchmark for Practical Molecular Optimization (PMO), to facilitate the transparent and reproducible evaluation of algorithmic advances in molecular optimization. This repository supports 25 molecular design algorithms on 23 tasks with a particular focus on sample efficiency (oracle calls). 
 
+### M2Hub: Unlocking the Potential of Machine Learning for Materials Discovery
+[M2Hub](https://github.com/yuanqidu/M2Hub) aims to build the machine learning foundations for materials discovery which has a standard workflow from virtual screening/inverse design to simulation to experiment. M2Hub provides data downloading, data processing, (baseline and state-of-the-art) machine learning method implementation, evaluation pipeline and benchmark results. 
+
 ### Datasets
 - [deepchem moleculenet](https://deepchem.readthedocs.io/en/latest/api_reference/moleculenet.html)
