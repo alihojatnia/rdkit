@@ -15,5 +15,8 @@ It currently provides hover tools that can depict molecules on-the-fly using SMI
 ### Global-Chem
 [Global Chem](https://globalchem.gitbook.io/globalchem-your-chemical-graph-network/) is a public dictionary of common chemical lists using the Common Chemical Name as input and SMILES/SMARTS as output organized by their respective community in a knowledge graph.[github](https://github.com/Global-Chem/global-chem)
 
+### mol_opt: A Benchmark for Practical Molecular Optimization
+[This repository](https://github.com/wenhao-gao/mol_opt) hosts an open-source benchmark for Practical Molecular Optimization (PMO), to facilitate the transparent and reproducible evaluation of algorithmic advances in molecular optimization. This repository supports 25 molecular design algorithms on 23 tasks with a particular focus on sample efficiency (oracle calls). 
+
 ### Datasets
 - [deepchem moleculenet](https://deepchem.readthedocs.io/en/latest/api_reference/moleculenet.html)
