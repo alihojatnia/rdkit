@@ -12,6 +12,8 @@ RDKit is a cheminformatics library that is widely used in the field of computati
 
 It currently provides hover tools that can depict molecules on-the-fly using SMILES: no need to pre-generate the depictions and store them in memory anymore! Everything is rendered client-side in the browser so you don't even need to install rdkit in your Python environment.
 
+### Global-Chem
+[Global Chem](https://globalchem.gitbook.io/globalchem-your-chemical-graph-network/) is a public dictionary of common chemical lists using the Common Chemical Name as input and SMILES/SMARTS as output organized by their respective community in a knowledge graph.[github](https://github.com/Global-Chem/global-chem)
 
 ### Datasets
 - [deepchem moleculenet](https://deepchem.readthedocs.io/en/latest/api_reference/moleculenet.html)
