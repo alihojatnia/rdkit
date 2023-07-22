@@ -7,6 +7,10 @@ RDKit is a cheminformatics library that is widely used in the field of computati
 - [smart tutorial](https://www.labcognition.com/onlinehelp/en/smiles_and_smarts_nomenclature.htm)
 -[RDkit 200 fearures explaination](https://datagrok.ai/help/domains/chem/descriptors)
 
+### bokehmol, gotta plot them mol!
+[bokehmol](https://github.com/cbouy/bokehmol) provides custom extensions that help plotting molecules with the Bokeh library.
+
+It currently provides hover tools that can depict molecules on-the-fly using SMILES: no need to pre-generate the depictions and store them in memory anymore! Everything is rendered client-side in the browser so you don't even need to install rdkit in your Python environment.
 
 
 ### Datasets
